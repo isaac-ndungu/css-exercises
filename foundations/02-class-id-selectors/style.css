@@ -1,0 +1,20 @@
+/* all odd numbered elements */
+.oddno {
+    background-color: lightpink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+/* the second element */
+#even1 {
+    color: blue;
+    font-size: 36px;
+}
+/* the third element */
+.oddno.cool {
+    font-size: 24px;
+}
+/* the fourth element*/
+#even2 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
